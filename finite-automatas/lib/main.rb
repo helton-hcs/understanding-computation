@@ -41,7 +41,7 @@ def test_nfas
   puts "Testing NFA's..."
   puts '=' * 20
 
-  #accept string where the third-from-last character is 'b'
+  #accepts string where the third-from-last character is 'b'
   test_nfa(1, [4],
            NFARulebook.new(
                [FARule.new(1, 'a', 1), FARule.new(1, 'b', 1), FARule.new(1, 'b', 2),
