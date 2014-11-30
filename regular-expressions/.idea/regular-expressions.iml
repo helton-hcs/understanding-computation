@@ -50,6 +50,8 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="jdk" jdkName="RVM: ruby-2.1.0 [global]" jdkType="RUBY_SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="PROVIDED" name="polyglot (v0.3.5, RVM: ruby-2.1.0 [global]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="treetop (v1.5.3, RVM: ruby-2.1.0 [global]) [gem]" level="application" />
   </component>
 </module>
 
